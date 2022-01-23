@@ -1,3 +1,4 @@
 # Color_Flipper
-Sample File
+
+## Sample File
 ![](/sample/sample.png)
