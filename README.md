@@ -1,3 +1,3 @@
 # Color_Flipper
 Sample File
-![](/sample.png)
+![](/Color_Flipper/sample.png)
